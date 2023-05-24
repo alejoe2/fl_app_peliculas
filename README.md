@@ -18,8 +18,9 @@ Esta es una aplicación móvil desarrollada en Flutter que proporciona informaci
 ![Pantalla Principal](/Screenshots/Captura_de_pantalla_1.png)
 ![Pantalla Detalles](/Screenshots/Captura_de_pantalla_2.png)
 
-_Inserta aquí algunas capturas de pantalla de tu aplicación para mostrar su interfaz y diseño._
-
 ## Instalación
 
-1. Clona este repositorio en tu máquina local:
+1. Clona este repositorio en tu máquina local: git clone https://github.com/alejoe2/fl_app_peliculas.git
+2. Asegúrate de tener Flutter instalado en tu sistema. Para obtener más información sobre cómo configurar Flutter, visita la [documentación oficial](https://flutter.dev/docs/get-started/install).
+3. Ejecuta el siguiente comando para obtener las dependencias del proyecto: flutter pub get
+4. Conecta tu dispositivo o inicia un emulador y ejecuta la aplicación: flutter run
