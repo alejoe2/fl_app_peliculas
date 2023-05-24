@@ -1,4 +1,4 @@
-![Flutter](/Screenshots//Screenshots/flutter-logo.png)
+![Flutter](/Screenshots/flutter-logo.png)
 
 # App de Información de Películas de Cine
 
