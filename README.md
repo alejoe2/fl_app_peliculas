@@ -1,16 +1,18 @@
-# fl_app_peliculas
+# App de Información de Películas de Cine
 
-A new Flutter project.
+Esta es una aplicación móvil desarrollada en Flutter que proporciona información sobre películas de cine. La aplicación utiliza la API de api.themoviedb.org para obtener datos actualizados sobre películas, como detalles de la trama, elenco, puntuaciones y más.
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+- Explora una amplia colección de películas de cine.
+- Obtén información detallada sobre películas, como sinopsis.
+- Obtén información detallada sobre sus actores.
 
-A few resources to get you started if this is your first Flutter project:
+## Capturas de pantalla
+![Descripción de la captura de pantalla](Screenshots\Captura_de_pantalla_1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+_Inserta aquí algunas capturas de pantalla de tu aplicación para mostrar su interfaz y diseño._
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalación
+
+1. Clona este repositorio en tu máquina local:
