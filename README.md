@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-  <img align="center" src="/Screenshots/flutter-logo.png" alt="Flutter" />
-</div>
+<p align="center">
+  <img src="/Screenshots/flutter-logo.png" alt="Flutter" />
+</p>
 
 
 
