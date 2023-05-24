@@ -9,7 +9,7 @@ Esta es una aplicación móvil desarrollada en Flutter que proporciona informaci
 - Obtén información detallada sobre sus actores.
 
 ## Capturas de pantalla
-![Descripción de la captura de pantalla](Screenshots\Captura_de_pantalla_1.png)
+![Descripción de la captura de pantalla](/Screenshots/Captura_de_pantalla_1.png)
 
 _Inserta aquí algunas capturas de pantalla de tu aplicación para mostrar su interfaz y diseño._
 
