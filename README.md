@@ -1,4 +1,9 @@
-![Flutter](/Screenshots/flutter-logo.png)
+<div style="text-align: center;">
+  ![Flutter](/Screenshots/flutter-logo.png)
+  <img src="ruta-a-la-imagen.png" alt="Descripción de la captura de pantalla" />
+</div>
+
+
 
 # App de Información de Películas de Cine
 
