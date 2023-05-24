@@ -1,6 +1,5 @@
 <div style="text-align: center;">
-  ![Flutter](/Screenshots/flutter-logo.png)
-  <img src="ruta-a-la-imagen.png" alt="Descripción de la captura de pantalla" />
+  <img src="/Screenshots/flutter-logo.png" alt="Flutter" />
 </div>
 
 
