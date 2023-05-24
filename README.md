@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="/Screenshots/flutter-logo.png" alt="Flutter" />
+  <img align="center" src="/Screenshots/flutter-logo.png" alt="Flutter" />
 </div>
 
 
