@@ -1,3 +1,5 @@
+(/Screenshots//Screenshots/flutter-logo.png)
+
 # App de Información de Películas de Cine
 
 Esta es una aplicación móvil desarrollada en Flutter que proporciona información sobre películas de cine. La aplicación utiliza la API de api.themoviedb.org para obtener datos actualizados sobre películas, como detalles de la trama, elenco, puntuaciones y más.
@@ -9,7 +11,8 @@ Esta es una aplicación móvil desarrollada en Flutter que proporciona informaci
 - Obtén información detallada sobre sus actores.
 
 ## Capturas de pantalla
-![Descripción de la captura de pantalla](/Screenshots/Captura_de_pantalla_1.png)
+![Pantalla Principal](/Screenshots/Captura_de_pantalla_1.png)
+![Pantalla Detalles](/Screenshots/Captura_de_pantalla_2.png)
 
 _Inserta aquí algunas capturas de pantalla de tu aplicación para mostrar su interfaz y diseño._
 
